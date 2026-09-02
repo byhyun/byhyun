@@ -2,6 +2,14 @@
 
 - **Email:** byhyun@ajou.ac.kr
 - **GitHub:** [https://github.com/byhyun](https://github.com/byhyun)
+- **Language:** C++
+  
+---
+
+## 관심 분야 (Research Interests)
+- Physics-based Simulation (PBD, Particle Simulation)
+- Computer Graphics & Rendering
+- Numerical Methods & Linear Algebra
 
 ---
 
@@ -33,14 +41,6 @@
 - Müller et al.(2006) 원천 논문의 수치 해석 알고리즘을 분석하여 외부 Renderer 종속성 없이 순수 C++17과 GLM으로 구동되는 입자 물리 시뮬레이션 라이브러리 독자 개발
 - Stretch, Bending, Planar Collision 제약 조건 및 운동량 보존 댐핑 구현
 - NaN 및 Zero Division 방어, 강성 계수 정규화를 통한 수치적 안정성 확보
-
----
-
-## 기술 역량 (Technical Skills)
-
-- **Languages & Libraries:** C++ (C++17), GLM
-- **Graphics & Simulation:** Position-Based Dynamics (PBD), Implicit Euler Integration, Inverse Kinematics
-- **Mathematics:** Linear Algebra (SVD, Jacobi Method)
 
 ---
 
