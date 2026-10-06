@@ -26,14 +26,6 @@
 
 ---
 
-## 연구 및 실무 경험 (Research Experience)
-
-**아주대학교 비주얼컴퓨팅연구실 (VCLab)** | 2026.08 ~ 현재
-- 학부연구생 (지도교수: 신현준)
-- 컴퓨터 그래픽스 및 Physics-based Simulation 분야 기초 논문 분석
-
----
-
 ## 프로젝트 (Projects)
 
 ### [PBD based cloth simulation library](https://github.com/byhyun/PBD) | 2026.08
